@@ -1,3 +1,2 @@
 # hello-world
-on a learning curve
-exciting times
+looking forward to using this tool 
